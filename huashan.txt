@@ -1,3 +1,12 @@
 this is a test file.
 
+
 在Windows环境下删除.ssh目录还能push代码吗？16:44
+
+
+
+code920 添加。16:29
+
+pull request 测试。
+
+
